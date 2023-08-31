@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a passionate React.js developer with a keen interest in crafting delightful user interfaces and creating seamless web experiences. <br>- 🚀 My journey in web development has been driven by a strong curiosity to explore the possibilities that React offers and a commitment to writing clean, maintainable code.<br>- 🌱 I’m currently exploring advanced React patterns and state management techniques.<br>- 💬 Ask me about React, front-end development, and UI/UX design.<br>- 📫 How to reach me: asmaqamar1111@gmail.com<br>- 💼 Featured Projects<br><br># Project 1: BAROQUE<br><br>Explore Project: (https://baroque-coral.vercel.app/)<br><br># Project 2: ZARA<br><br>Explore Project: (https://zara-ashy.vercel.app/)<br><br># Project 3: PORTFOLIO <br><br>Explore Project: (https://asmaqamar.netlify.app/)<br>
+### Hi 👋, I'm Asma Qamar 👋
+
+-🔭 I'm a passionate React.js developer with a keep interest in crafting delightful user interfaces and creating seamless web experiences. <br>- 🚀 My journey in web development has been driven by a strong curiosity to explore the possibilities that React offers and a commitment to writing clean, maintainable code.<br>- 🌱 I’m currently exploring advanced React patterns and state management techniques.<br>- 💬 Ask me about React, front-end development, and UI/UX design.<br>- 📫 How to reach me: asmaqamar1111@gmail.com<br>- 💼 Featured Projects<br><br># Project 1: BAROQUE<br><br>Explore Project: (https://baroque-coral.vercel.app/)<br><br># Project 2: ZARA<br><br>Explore Project: (https://zara-ashy.vercel.app/)<br><br># Project 3: PORTFOLIO <br><br>Explore Project: (https://asmaqamar.netlify.app/)<br>
 
 
 ## 🌐 Socials:
@@ -14,6 +16,9 @@ I'm a passionate React.js developer with a keen interest in crafting delightful 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=asmaqamar1111&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=asmaqamar1111&icon=0&color=0)](https://visitcount.itsvg.in)
